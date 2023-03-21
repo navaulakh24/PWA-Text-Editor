@@ -20,7 +20,7 @@ This application first looks to use the data in the IndexedDB database to popula
 #
 
 ## Deployment
-Click [here]() for the deployed app!
+Click [here](https://damp-headland-65466.herokuapp.com/) for the deployed app!
 #
 
 ## User Story
